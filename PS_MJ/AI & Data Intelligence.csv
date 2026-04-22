@@ -1,0 +1,43 @@
+seral number,Role,Key Focus,Essential Skills,Top Project Idea
+1,ML Engineer,Model Production,"Python, TensorFlow, MLOps, Docker",End-to-end Recommendation System
+2,Data Scientist,Insights & Stats,"Pandas, Scikit-learn, SQL, Stats",Sales Forecasting Time-Series
+3,AI Research Scientist,Innovation/Theory,"Deep Math, PyTorch, Paper Implementation",Implement Transformer from Scratch
+4,Data Engineer,Infrastructure,"Spark, Airflow, SQL, ETL Pipelines",Real-time Kafka Streaming Pipeline
+5,NLP Engineer,Language,"Hugging Face, BERT, Spacy",RAG-based AI Chatbot
+6,Computer Vision Eng.,Visual Data,"OpenCV, CNNs, YOLO, C++",Medical Image Analysis System
+7,BI Analyst,Business Reporting,"Power BI, Tableau, SQL, Excel",KPI Tracking Dashboard
+8,AI Product Manager,Strategy/Roadmap,"Agile, Market Research, AI Basics",AI Product Roadmap for SaaS
+9,MLOps Engineer,Lifecycle/Automation,"CI/CD, Kubernetes, MLflow",Automated Retraining Pipeline
+10,Data Analyst,Trends/Cleaning,"SQL, Excel, Python, Tableau",Exploratory Data Analysis (EDA)
+#,Role,Key Focus,Essential Skills,Top Project Idea
+21,Speech Recognition Eng.,Audio-to-Text,"Wav2Vec, Kaldi, Signal Processing",Real-time Voice Assistant
+22,Reinforcement Learning Eng.,Reward-based Logic,"OpenAI Gym, PPO, Markov Processes",Self-learning Trading Bot
+23,AI Game Developer,NPC Intelligence,"Unity/Unreal, A* Pathfinding, C#",RL-based Game Agent
+24,Time Series Analyst,Temporal Data,"ARIMA, LSTM, Forecasting",Energy Consumption Analysis
+25,Fraud Detection Analyst,Anomaly Detection,"Risk Modeling, SQL, ML",Credit Card Fraud Detector
+26,Quantitative Analyst,Finance/Trading,"Statistics, Financial Modeling",Algorithmic Trading Bot
+27,AI Cybersecurity Analyst,Threat Detection,"Network Security, SIEM, Anomaly ML",Malware Classification Model
+28,Healthcare AI Specialist,Medical/Diagnostics,"HIPAA, Medical Imaging, Python",Disease Prediction Model
+29,Autonomous Systems Eng.,Self-driving/Robots,"Sensor Fusion, ROS, Computer Vision",Obstacle Avoidance Simulation
+30,AI UX Designer,Human-AI Interaction,"Figma, Prototyping, Prompt Design",Voice UI (VUI) Design
+31,LLM Engineer,Large Language Models,"Vector DBs, Prompt Eng., Transformers",Document Q&A System (RAG)
+32,Generative AI Engineer,Media Creation,"Diffusion Models, GANs, PyTorch",AI Art Generation Tool
+33,AI Content Engineer,Automation,"NLP, API Integration, SEO",Automated Blog/Social Media Tool
+34,Conversational AI Designer,Dialogue Flows,"UX Writing, Chatbot Frameworks",Multi-turn Support Dialogue
+35,Knowledge Graph Eng.,Structured Entities,"Neo4j, SPARQL, Data Modeling",Semantic Search Engine
+#,Role,Key Focus,Essential Skills,Top Project Idea
+36,Data Visualization Eng.,Storytelling,"D3.js, Plotly, UI/UX",Interactive Analytics Dashboard
+37,AI Auditor,Ethics & Compliance,"Bias Detection, Risk Analysis",AI Ethics/Bias Audit Framework
+38,Synthetic Data Engineer,Fake Data Gen,"GANs, Privacy Tech, Simulation",Privacy-Preserving Dataset Gen
+39,Personalization Eng.,User Experience,"Recommender Systems, Behavior Analysis",Content Personalization Engine
+40,Edge AI Engineer,On-device AI,"TF Lite, IoT, Model Optimization",Smart Camera Object Detection
+41,AI DevOps Engineer,Scaling AI,"Docker, Cloud, Automation",Model Versioning Pipeline
+42,AI Solutions Architect,Systems Design,"Cloud Architecture, SaaS Design",Scalable Enterprise AI System
+43,Digital Twin Engineer,Virtual Replicas,"IoT, Simulation, 3D Modeling",Factory Predictive Maintenance
+44,AI Simulation Engineer,Training Envs,"RL, Simulation Tools (Nvidia Isaac)",Traffic Flow Simulator
+45,AI Trainer,Fine-Tuning,"Transfer Learning, Data Labeling",Domain-Specific LLM Tuning
+46,Multimodal AI Engineer,Mixed Data,"Cross-modal Transformers, DL",Image Captioning Generator
+47,AI Search Engineer,Information Retrieval,"Elasticsearch, Ranking Algos",Semantic Document Search
+48,AI Marketing Analyst,Campaign Opt.,"Customer Segmentation, ML",Lead Scoring System
+49,AI Financial Analyst,Investment/Risk,"Finance, ML, Dashboarding",Portfolio Risk Analysis
+50,AI Education Tech.,Personalized Learning,"EdTech, Adaptive Learning",AI Tutor for Student Progress

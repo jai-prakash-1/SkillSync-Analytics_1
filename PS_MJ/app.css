@@ -1,0 +1,39 @@
+/* ── SKILLSYNC MINIMALIST INTERFACE ── */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap');
+
+/* Main Body Font */
+html, body, [class*="css"] {
+    font-family: 'Share Tech Mono', monospace !important;
+}
+
+/* Headers - Keep the Orbitron look */
+h1, h2, h3, [data-testid="stHeader"] {
+    font-family: 'Orbitron', sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Sidebar Styling - Clean White */
+[data-testid="stSidebar"] {
+    background-color: #f8f9fa !important;
+    border-right: 1px solid #dee2e6;
+}
+
+/* Metrics - Professional Grey Boxes */
+[data-testid="stMetric"] {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #ffffff;
+}
+
+/* Chatbot - Standard Bubbles with Mono Font */
+.stMarkdown p {
+    font-family: 'Share Tech Mono', monospace !important;
+}
+
+/* Button - Professional Blue */
+.stButton>button {
+    font-family: 'Orbitron', sans-serif !important;
+    border-radius: 4px !important;
+}

@@ -1,0 +1,172 @@
+serial nuber_ITS,JOB_TITLE_ITS,JOB_ DES_ITS,SKILL_ITS,PROJECT_ITS
+1,Software Engineer,"Architects and maintains robust software systems. Responsible for the full lifecycle: requirement analysis, writing clean/scalable code, peer reviews, and ensuring system reliability under high traffic.","DSA, OOP, System Design, Java/Python, Git, SQL, Linux.","URL Shortener, API Rate Limiter, Distributed File System."
+2,Frontend Developer,"Engineers the visual and interactive layer of web apps. Focuses on state management, bundle optimization, accessibility (WCAG), and seamless integration with complex backend APIs.","React/Next.js, TypeScript, CSS Grid, Redux, Webpack.","Netflix Clone, Kanban Board, Crypto Tracker, Portfolio."
+3,Backend Developer,"Builds the ""brains"" of the app. Designs database schemas, manages server-side logic, implements secure authentication, and optimizes data processing pipelines and caching strategies.","Node.js/Go/Python, PostgreSQL, Redis, JWT, GraphQL.","E-commerce Engine, Auth System, Real-time Chat Server."
+4,Data Scientist,"Transforms raw data into business intelligence. Uses statistical modeling and ML to predict trends, perform deep-dive exploratory data analysis (EDA), and automate decision-making.","Python (Pandas/NumPy), Scikit-Learn, Stats, Tableau.","Churn Predictor, Sales Forecaster, Sentiment Analyzer."
+5,DevOps Engineer,"Bridges the gap between code and infrastructure. Automates deployments via CI/CD, manages container orchestration, and monitors system health to ensure 99.9% uptime.","Docker, Kubernetes, Terraform, AWS/GCP, Jenkins, Bash.","CI/CD Pipeline, K8s Cluster Setup, Monitoring Dashboard."
+6,Cybersecurity Analyst,"The frontline of digital defense. Monitors networks for breaches, performs vulnerability assessments, implements encryption standards, and ensures compliance with global security laws.","Networking, OWASP, Kali Linux, SIEM Tools, Firewalls.","Vulnerability Scanner, Packet Analyzer, Pentest Report."
+7,AI Engineer,"Specializes in integrating Large Language Models (LLMs) and Generative AI into products. Focuses on prompt engineering, fine-tuning models, and building agentic workflows.","OpenAI/Anthropic APIs, LangChain, Vector DBs (Pinecone).","AI Tutor, Document Summarizer, Agentic CRM Assistant."
+8,UI/UX Designer,"Conducts user research to solve friction points. Creates high-fidelity wireframes and interactive prototypes, ensuring the product is intuitive, inclusive, and aesthetically cohesive.","Figma, Adobe XD, User Research, Design Systems.","SaaS Dashboard UI, Usability Audit, Mobile App Prototype."
+9,Cloud Engineer,"Architecting the cloud footprint. Migrates on-premise systems to the cloud, manages IAM roles for security, and optimizes cloud spending through serverless and auto-scaling logic.","AWS (EC2/S3/Lambda), Azure, Networking, IAM, CloudFront.","Serverless API, Multi-region Setup, Cost Optimizer."
+10,Data Engineer,"The ""plumber"" of data. Builds and maintains ETL (Extract, Transform, Load) pipelines that move massive datasets from various sources into data lakes or warehouses for analysis.","SQL, Apache Spark, Airflow, Snowflake, Kafka.","ETL Pipeline, Real-time Data Stream, Data Lake Design."
+11,Mobile Developer,"Develops native or cross-platform applications. Optimizes apps for battery life, memory usage, and offline capabilities while maintaining a ""mobile-first"" user experience.","Flutter, React Native, Swift/Kotlin, Firebase, APIs.","Fitness Tracker, Food Delivery App, Location-based Map."
+12,SRE (Site Reliability),"An evolution of DevOps that treats operations as a software problem. Focuses on ""error budgets,"" automation of manual tasks (toil), and building self-healing infrastructure.","Python/Go, Prometheus, Grafana, Incident Management.","Uptime Tracker, Log Aggregator, Auto-healing Script."
+13,Blockchain Dev,"Develops decentralized applications (dApps). Writes smart contracts, manages cryptographic keys, and ensures the security of transactions on distributed ledgers.","Solidity, Rust, Web3.js, Ethereum, Cryptography.","NFT Marketplace, Voting System, Crypto Wallet."
+14,QA Automation,"Replaces manual testing with code. Writes scripts to test UI, APIs, and performance, ensuring that new code doesn't break existing features before it reaches production.","Selenium, Playwright, PyTest, LoadRunner, Postman.","UI Test Suite, API Performance Test, Bug Tracker."
+15,Solutions Architect,"The high-level strategist. Defines the tech stack for new projects, ensuring that the frontend, backend, and database talk to each other efficiently and can scale to millions of users.","System Design, Microservices, Security, Cost Analysis.","Netflix System Design, Microservices Migration Plan."
+16,Product Owner,"Represents the customer. Manages the product backlog, prioritizes features based on ROI, and acts as the bridge between business stakeholders and the engineering team.","Agile/Scrum, Jira, Market Research, Communication.","Product Roadmap, Feature Prioritization Framework."
+17,Embedded Engineer,"Writes code that lives on hardware (microchips). Focuses on memory-efficient C/C++ to control medical devices, automotive systems, or consumer electronics.","C, C++, RTOS, Microcontrollers, Assembly.","Firmware for IoT Sensor, Bootloader, Robot Controller."
+18,GIS Developer,"Specializes in spatial data. Builds applications that visualize geographic information, such as GPS tracking, urban planning maps, or logistics optimization tools.","ArcGIS, Mapbox, PostGIS, Python, Mapping APIs.","Route Optimizer, Heatmap Dashboard, Map Tracking App."
+19,Full Stack Developer,"The ""generalist"" capable of building a product from scratch. Understands the entire flow from the database to the browser, making them invaluable for startups and MVPs.","HTML/CSS, JS, Node.js, SQL, Deployment (Vercel).","SaaS Subscription App, Social Media Platform."
+20,IT Consultant,"Provides external expertise to companies. Analyzes existing tech debt, recommends modern stack upgrades, and helps businesses undergo digital transformations.","Strategy, Tech Auditing, Communication, Wide Tech Breadth.","Tech Stack Audit, Digital Transformation Proposal."
+,,,,
+21,Network Security Engineer,"Designs and implements secure network architectures. Responsible for configuring firewalls, managing VPNs, and conducting traffic analysis to prevent unauthorized access and DDoS attacks.","Cisco/Juniper, Firewalls (Palo Alto), VPN, IDS/IPS, Wireshark.",1. Secure VPN Gateway
+,,,,
+,,,,2. Intrusion Detection System
+,,,,
+,,,,3. Automated Firewall Auditor
+22,Penetration Tester,"Conducts authorized ""ethical hacks"" on applications and infrastructure. Identifies security loopholes, exploits vulnerabilities to prove risk, and writes remediation reports for dev teams.","Kali Linux, Metasploit, Burp Suite, Python (Scripting), OWASP.",1. Web App Security Audit
+,,,,
+,,,,2. SQL Injection Lab
+,,,,
+,,,,3. Network Exploitation Report
+23,Game Designer,"Focuses on the ""fun factor"" and logic. Designs game mechanics, level layouts, narrative branching, and balance systems to ensure high player engagement and retention.","Game Theory, Unity/Unreal, Storyboarding, C#, Level Design.",1. RPG Mechanics Doc
+,,,,
+,,,,2. Level Design Prototype
+,,,,
+,,,,3. Combat Balancing Sheet
+24,AR Developer,"Creates ""Mixed Reality"" experiences. Overlays digital information onto the physical world for applications in retail (virtual try-on), education, and navigation.","ARCore, ARKit, Unity, C#, 3D Math (Vectors/Quaternions).",1. Virtual Furniture Placer
+,,,,
+,,,,2. AR Business Card
+,,,,
+,,,,3. Face Filter App
+25,VR Developer,Builds fully immersive digital environments. Optimizes 3D rendering for high frame rates to prevent motion sickness and designs natural 3D interaction systems.,"Unreal Engine, Unity, C++, Spatial Audio, 3D Modeling (Blender).",1. VR Training Simulator
+,,,,
+,,,,2. Virtual Art Gallery
+,,,,
+,,,,3. Immersive Physics Sandbox
+26,Robotics Engineer,"Develops the software that controls hardware. Focuses on sensor fusion (LiDAR/Camera), path planning, and kinematics to allow robots to navigate and interact with the world.","ROS (Robot OS), C++, Python, Control Theory, Linux.",1. Autonomous Path Finder
+,,,,
+,,,,2. Robotic Arm Controller
+,,,,
+,,,,3. SLAM Simulation
+27,IoT Engineer,"Connects physical devices to the cloud. Manages low-power communication protocols, data ingestion from sensors, and remote device management at scale.","MQTT, C++, Raspberry Pi/Arduino, ESP32, Cloud IoT Hubs.",1. Smart Home Dashboard
+,,,,
+,,,,2. Industrial Temp Monitor
+,,,,
+,,,,3. Fleet Tracking System
+28,CRM Developer,Customizes enterprise platforms (like Salesforce) to automate sales and marketing. Writes custom logic and integrates third-party APIs to streamline customer lifecycles.,"Apex, JavaScript, Salesforce/HubSpot, API Integration.",1. Automated Lead Scorer
+,,,,
+,,,,2. CRM-to-Slack Notifier
+,,,,
+,,,,3. Custom Sales Pipeline
+29,ERP Consultant,"Bridges the gap between business finance and IT. Implements massive systems (SAP/Oracle) to manage company-wide resources, supply chains, and human resources.","SAP, SQL, Business Workflow Analysis, Project Management.",1. Inventory Flow Model
+,,,,
+,,,,2. Finance Module Audit
+,,,,
+,,,,3. Supply Chain Automation Case
+30,Technical Support Engineer,"Acts as the Tier 3 support for complex software. Debugs customer code, analyzes system logs, and provides workarounds for high-priority technical blockers.","Troubleshooting, Linux, Log Analysis (Splunk), Communication.",1. Tech Knowledge Base
+,,,,
+,,,,2. Issue Tracking Dashboard
+,,,,
+,,,,3. Log Parser Script
+31,IT Help Desk Specialist,"The backbone of corporate IT operations. Manages hardware deployment, OS troubleshooting, and user access, ensuring employee productivity remains high.","Windows/macOS/Linux, Active Directory, Networking Basics.",1. Remote Access Guide
+,,,,
+,,,,2. Automated Onboarding Script
+,,,,
+,,,,3. Help Desk Ticketing System
+32,Product Owner,"Maximizes the value of the product built by the team. Owns the backlog, writes user stories, and ensures every sprint aligns with the business's strategic goals.","Agile/Scrum, Jira, Market Analysis, User Story Mapping.",1. Product Backlog Strategy
+,,,,
+,,,,2. Feature Roadmap
+,,,,
+,,,,3. Competitive Analysis Report
+33,Release Manager,"Orchestrates the software release cycle. Coordinates between Dev, QA, and Ops to ensure that deployments are scheduled, tested, and rolled back if failures occur.","Git, CI/CD Pipelines, Change Management, Project Management.",1. Deployment Checklist Bot
+,,,,
+,,,,2. Release Versioning System
+,,,,
+,,,,3. Post-Mortem Report Template
+34,System Analyst,"Translates ""Business Talk"" into ""Tech Talk."" Analyzes existing workflows to recommend software improvements and creates detailed technical specifications for developers.","UML, SQL, Documentation, Requirement Gathering.",1. SRS (Spec) Document
+,,,,
+,,,,2. System Architecture Diagram
+,,,,
+,,,,3. Gap Analysis Report
+35,Search Engineer,"Specializes in information retrieval. Builds high-speed search engines, optimizes ranking algorithms (relevancy), and manages large-scale indexing.","Elasticsearch, Solr, Lucene, Python, Vector Search.",1. E-commerce Search Engine
+,,,,
+,,,,2. Autocomplete API
+,,,,
+,,,,3. News Ranking Algorithm
+36,Compiler Engineer,"Works at the deepest layer of tech. Builds compilers, interpreters, and transpilers that convert high-level code into machine instructions.","C/C++, LLVM, Formal Language Theory, Assembly.",1. Custom DSL (Language)
+,,,,
+,,,,2. Syntax Tree Visualizer
+,,,,
+,,,,3. Basic Code Linter
+37,Firmware Engineer,"Writes software that is embedded directly into hardware ""read-only"" memory. Focuses on extreme memory efficiency and real-time responsiveness.","C, Assembly, RTOS, Hardware Debugging (JTAG).",1. Microcontroller Bootloader
+,,,,
+,,,,2. Sensor Driver (I2C/SPI)
+,,,,
+,,,,3. Low-power Sleep Manager
+38,AdTech Engineer,"Builds high-throughput systems for the digital ad industry. Focuses on ""Real-Time Bidding"" (RTB), tracking pixels, and processing billions of events per day.","Java/Go, Kafka, Redis, High-Concurreny Design.",1. Real-time Click Tracker
+,,,,
+,,,,2. Ad Budget Pacing Engine
+,,,,
+,,,,3. Attribution Modeling Tool
+39,FinTech Developer,"Builds highly secure financial systems. Handles ledger management, payment gateway integrations, and fraud detection while ensuring regulatory compliance.","Java/C#, Encryption, PCI-DSS, Microservices.",1. Secure Payment Gateway
+,,,,
+,,,,2. Double-Entry Ledger
+,,,,
+,,,,3. Fraud Detection Rule-Engine
+40,EdTech Developer,"Designs platforms for learning. Focuses on Video-on-Demand (VoD), interactive assessments, and SCORM compliance for educational tracking.","React/Node.js, AWS S3/CloudFront, Video Processing.",1. Learning Management System
+,,,,
+,,,,2. Quiz Engine
+,,,,
+,,,,3. Peer-Review Platform
+41,HealthTech Developer,"Works on software for the medical field. Focuses on data privacy (HIPAA), electronic health records (EHR), and integrating with medical hardware.","Python/Java, HL7/FHIR Standards, Cybersecurity, SQL.",1. Patient Portal
+,,,,
+,,,,2. Telemedicine App
+,,,,
+,,,,3. Medical Imaging Viewer
+42,Automation Engineer,"Focuses on automating ""manual"" business tasks using code and APIs. Connects disconnected apps (like CRM to Finance) to create seamless workflows.","Python, Zapier/n8n, API Integration, Webhooks.",1. Automated Invoice Processor
+,,,,
+,,,,2. Lead Gen Scraping Bot
+,,,,
+,,,,3. Multi-platform Sync Tool
+43,RPA Developer,"Uses ""Software Robots"" (UiPath/BluePrism) to mimic human UI interactions. Automates legacy systems that don't have modern APIs.","UiPath, Automation Anywhere, VB.NET, OCR Tools.",1. Legacy Data Entry Bot
+,,,,
+,,,,2. Email Invoice Extractor
+,,,,
+,,,,3. Automated HR Onboarding
+44,Digital Forensics Expert,"Investigates cybercrime post-incident. Recovers deleted data, analyzes logs to trace hacker activity, and prepares evidence for legal proceedings.","EnCase, FTK, Memory Forensics, Python, File Systems.",1. Disk Image Analysis
+,,,,
+,,,,2. Malware Behavior Report
+,,,,
+,,,,3. Deleted File Recovery Lab
+45,IT Trainer,"Educates the next generation of tech talent. Creates curriculum, designs labs, and teaches complex technical concepts to corporate teams or students.","Technical Writing, Curriculum Design, Communication.",1. Full Course Syllabus
+,,,,
+,,,,2. Interactive Lab Environment
+,,,,
+,,,,3. Video Tutorial Series
+46,Open Source Contributor,"A professional specialized in maintaining public codebases. Manages community pull requests, ensures code quality, and secures open-source dependencies.","Git, Peer Reviews, Project Management, Technical Writing.",1. Major Library Contribution
+,,,,
+,,,,2. Open Source Bug Fixes
+,,,,
+,,,,3. Feature Documentation
+47,Freelance Developer,"Operates as a ""one-person agency."" Handles client acquisition, scoping, building full-stack apps, and managing the business/billing side of dev.","Full Stack Skills, Business Logic, Marketing, UI/UX.",1. Client Portfolio Website
+,,,,
+,,,,2. Custom SaaS MVP
+,,,,
+,,,,3. Freelance Invoicing Tool
+48,Startup CTO,"The technical visionary for a new company. Balances building an MVP quickly with the long-term goal of building a scalable, secure architecture.","System Design, Leadership, Budgeting, Full Stack.",1. Scalable MVP Launch
+,,,,
+,,,,2. Engineering Team Handbook
+,,,,
+,,,,3. Tech Scalability Roadmap
+49,IT Auditor,"Independent reviewer of a company's tech. Checks for security holes, financial inaccuracies in software, and compliance with laws like GDPR or SOC2.","Risk Management, Compliance Frameworks, SQL.",1. SOC2 Compliance Checklist
+,,,,
+,,,,2. IT Risk Assessment Report
+,,,,
+,,,,3. Internal Security Audit
+50,IT Project Manager,"The glue that keeps projects on track. Manages timelines, budgets, and stakeholders using frameworks like PMP or Agile to ensure on-time delivery.","PMP/Agile, Jira/Asana, Budgeting, Communication.",1. Project Management Plan
+,,,,
+,,,,2. Resource Allocation Sheet
+,,,,
+,,,,3. Risk Mitigation Strategy
